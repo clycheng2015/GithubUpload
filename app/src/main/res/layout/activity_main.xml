@@ -16,4 +16,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="测试代码混淆配置及如何上传代码到Github!"/>
+
+    <TextView
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hello"
+        android:text="测试代码混淆配置及如何上传代码到Github!"/>
 </RelativeLayout>
