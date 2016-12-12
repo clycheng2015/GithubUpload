@@ -10,7 +10,9 @@ import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 
 /**
- * 测试代码，暂时忽略功能
+ * Static functions to simplifiy common {@link MessageDigest}
+ * tasks. This class is thread safe.
+ * 测试是否再次输入用户名、密码
  */
 public final class Md5Utils {
 
